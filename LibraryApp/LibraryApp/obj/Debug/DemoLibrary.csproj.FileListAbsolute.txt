@@ -1,0 +1,6 @@
+C:\.netproject\LibraryApp\LibraryApp\bin\Debug\LibraryApp.dll
+C:\.netproject\LibraryApp\LibraryApp\bin\Debug\LibraryApp.pdb
+C:\.netproject\LibraryApp\LibraryApp\obj\Debug\DemoLibrary.csproj.AssemblyReference.cache
+C:\.netproject\LibraryApp\LibraryApp\obj\Debug\DemoLibrary.csproj.CoreCompileInputs.cache
+C:\.netproject\LibraryApp\LibraryApp\obj\Debug\LibraryApp.dll
+C:\.netproject\LibraryApp\LibraryApp\obj\Debug\LibraryApp.pdb

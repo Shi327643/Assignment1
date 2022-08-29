@@ -1,0 +1,11 @@
+C:\.netproject\LibraryApp\TestApp\bin\Debug\TestApp.exe.config
+C:\.netproject\LibraryApp\TestApp\bin\Debug\TestApp.exe
+C:\.netproject\LibraryApp\TestApp\bin\Debug\TestApp.pdb
+C:\.netproject\LibraryApp\TestApp\obj\Debug\TestApp.csproj.AssemblyReference.cache
+C:\.netproject\LibraryApp\TestApp\obj\Debug\TestApp.csproj.SuggestedBindingRedirects.cache
+C:\.netproject\LibraryApp\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+C:\.netproject\LibraryApp\TestApp\obj\Debug\TestApp.exe
+C:\.netproject\LibraryApp\TestApp\obj\Debug\TestApp.pdb
+C:\.netproject\LibraryApp\TestApp\bin\Debug\LibraryApp.dll
+C:\.netproject\LibraryApp\TestApp\bin\Debug\LibraryApp.pdb
+C:\.netproject\LibraryApp\TestApp\obj\Debug\TestApp.csproj.CopyComplete

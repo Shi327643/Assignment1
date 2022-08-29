@@ -1,0 +1,11 @@
+C:\.netproject\MathsLibrary\MathTestApp\bin\Debug\MathTestApp.exe.config
+C:\.netproject\MathsLibrary\MathTestApp\bin\Debug\MathTestApp.exe
+C:\.netproject\MathsLibrary\MathTestApp\bin\Debug\MathTestApp.pdb
+C:\.netproject\MathsLibrary\MathTestApp\bin\Debug\MathsLibrary.dll
+C:\.netproject\MathsLibrary\MathTestApp\bin\Debug\MathsLibrary.pdb
+C:\.netproject\MathsLibrary\MathTestApp\obj\Debug\MathTestApp.csproj.AssemblyReference.cache
+C:\.netproject\MathsLibrary\MathTestApp\obj\Debug\MathTestApp.csproj.SuggestedBindingRedirects.cache
+C:\.netproject\MathsLibrary\MathTestApp\obj\Debug\MathTestApp.csproj.CoreCompileInputs.cache
+C:\.netproject\MathsLibrary\MathTestApp\obj\Debug\MathTestApp.csproj.CopyComplete
+C:\.netproject\MathsLibrary\MathTestApp\obj\Debug\MathTestApp.exe
+C:\.netproject\MathsLibrary\MathTestApp\obj\Debug\MathTestApp.pdb

@@ -1,0 +1,11 @@
+C:\.netproject\ShopingLibrary\ShopingTestApp\bin\Debug\ShopingTestApp.exe.config
+C:\.netproject\ShopingLibrary\ShopingTestApp\bin\Debug\ShopingTestApp.exe
+C:\.netproject\ShopingLibrary\ShopingTestApp\bin\Debug\ShopingTestApp.pdb
+C:\.netproject\ShopingLibrary\ShopingTestApp\obj\Debug\ShopingTestApp.csproj.AssemblyReference.cache
+C:\.netproject\ShopingLibrary\ShopingTestApp\obj\Debug\ShopingTestApp.csproj.SuggestedBindingRedirects.cache
+C:\.netproject\ShopingLibrary\ShopingTestApp\obj\Debug\ShopingTestApp.csproj.CoreCompileInputs.cache
+C:\.netproject\ShopingLibrary\ShopingTestApp\obj\Debug\ShopingTestApp.exe
+C:\.netproject\ShopingLibrary\ShopingTestApp\obj\Debug\ShopingTestApp.pdb
+C:\.netproject\ShopingLibrary\ShopingTestApp\bin\Debug\ShopingLibrary.dll
+C:\.netproject\ShopingLibrary\ShopingTestApp\bin\Debug\ShopingLibrary.pdb
+C:\.netproject\ShopingLibrary\ShopingTestApp\obj\Debug\ShopingTestApp.csproj.CopyComplete

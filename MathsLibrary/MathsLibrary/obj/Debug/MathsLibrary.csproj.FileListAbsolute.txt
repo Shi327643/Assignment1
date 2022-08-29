@@ -1,0 +1,6 @@
+C:\.netproject\MathsLibrary\MathsLibrary\bin\Debug\MathsLibrary.dll
+C:\.netproject\MathsLibrary\MathsLibrary\bin\Debug\MathsLibrary.pdb
+C:\.netproject\MathsLibrary\MathsLibrary\obj\Debug\MathsLibrary.csproj.AssemblyReference.cache
+C:\.netproject\MathsLibrary\MathsLibrary\obj\Debug\MathsLibrary.csproj.CoreCompileInputs.cache
+C:\.netproject\MathsLibrary\MathsLibrary\obj\Debug\MathsLibrary.dll
+C:\.netproject\MathsLibrary\MathsLibrary\obj\Debug\MathsLibrary.pdb

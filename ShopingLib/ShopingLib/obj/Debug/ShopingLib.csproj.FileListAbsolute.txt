@@ -1,0 +1,3 @@
+C:\.netproject\ShopingLib\ShopingLib\obj\Debug\ShopingLib.csproj.AssemblyReference.cache
+C:\.netproject\ShopingLib\ShopingLib\obj\Debug\ShopingLib.csproj.SuggestedBindingRedirects.cache
+C:\.netproject\ShopingLib\ShopingLib\obj\Debug\ShopingLib.csproj.CoreCompileInputs.cache
